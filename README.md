@@ -1,37 +1,121 @@
-<div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Sharann Manojkumar"/></picture>
+<h1 align="center">Hi there, I'm Manikandan 👋</h1>
 
-<a href="https://sharann.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000" alt="Portfolio"/></picture></a>
-<a href="https://sharann.dev/Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=ffffff"/><img src="https://img.shields.io/badge/RESUME-ffffff?style=flat-square&logo=adobeacrobatreader&logoColor=000000" alt="Resume"/></picture></a>
-<a href="https://linkedin.com/in/sharannm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
-<a href="https://x.com/m_sharann"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/X-ffffff?style=flat-square" alt="X"/></picture></a>
-<a href="mailto:sharannmanojkumar@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square" alt="Email"/></picture></a>
+<h3 align="center">Python Developer | AI Integration Enthusiast | Accessibility Tech Builder</h3>
 
-</div>
+<p align="center">
+  <a href="https://mani6368.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manikandan-d-246972395/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:manikandandhanakodi3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Sharann"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — system map"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Project ecosystem"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="15 projects"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Animated development telemetry"/></picture>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mani6368&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<div align="center">
+---
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/github-stats.svg" width="97%" alt="GitHub statistics and repository languages"/></picture>
+### 🧭 About Me
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
+- 🎓 Final-year **B.E. Electrical and Electronics Engineering** student at Excel Engineering College, Komarapalayam
+- 💻 Enthusiastic **Python Developer** with a strong foundation in Data Structures & Algorithms
+- 🤖 Passionate about **AI integration**, building tools that solve real, human problems
+- ♿ Currently building an **AI Vision Assistant** — an NVDA add-on that helps visually impaired users navigate inaccessible software, in collaboration with **Vision-Aid NGO**
+- 🛠️ Hands-on experience across **AI-powered web apps, ERP systems, and accessibility tooling**
+- 🌱 Actively looking for **internship opportunities** to apply and grow my skills in real-world, AI-driven software development
+- ⚡ Fun fact: when I'm not coding, I'm doing hand embroidery 🧵
 
-</div>
+---
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="05 — the route"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/><img src="assets/timeline.svg" alt="Development timeline"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"/><img src="assets/experience.svg" alt="Professional experience"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — stack"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
+### 🚀 Featured Projects
 
-<!-- one responsive picture per visual; no duplicate light/dark rendering -->
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🗣️ AI-Vision Assistant</h4>
+      <p>Open-source accessibility tool that captures screenshots to identify on-screen UI elements, enabling full keyboard navigation and automated mouse interaction for visually impaired users. Built for Vision-Aid NGO's Hackathon 2026.</p>
+      <p><b>Stack:</b> Python, NVDA, wxPython, Pillow, AI Vision Models</p>
+    </td>
+    <td width="50%">
+      <h4>📝 Report-Maker AI</h4>
+      <p>AI-based web application that automates professional report generation through a minimalist, responsive UI — turning raw user input into structured, formal reports in real-time.</p>
+      <p><b>Stack:</b> HTML, CSS, JavaScript</p>
+      <p>🔗 <a href="http://report-maker.tech">report-maker.tech</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🏭 Canteen Stock Inventory — SAIL Salem Steel Plant</h4>
+      <p>Semi-automated canteen management system handling inventory, kitchen operations, sales, and distribution, with backend logic and database design built for real operational use.</p>
+      <p><b>Stack:</b> PHP, HTML, CSS, JavaScript, MySQL</p>
+    </td>
+    <td width="50%">
+      <h4>🎓 Always Building</h4>
+      <p>Currently exploring Retrieval-Augmented Generation (RAG) for document intelligence and expanding my portfolio of AI-integrated tools.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mani6368&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani6368&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mani6368&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/mani6368/mani6368/output/snake.svg)
+
+---
+
+### 🎓 Education
+
+**B.E. Electrical and Electronics Engineering**
+Excel Engineering College, Komarapalayam — *2023 – 2027*
+
+---
+
+### 📄 Certifications
+
+- NPTEL — Programming in Java *(Oct 2025)*
+- SAIL, Salem Steel Plant — Canteen Inventory Module Software *(Oct 2025)*
+- Hackathon for Inclusion — Virtual Hackathon Participant *(May 2026)*
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manikandan-d-246972395/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:manikandandhanakodi3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mani6368.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Open to internship opportunities in AI-integrated software development 🚀</i></p>
