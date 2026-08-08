@@ -1,4 +1,4 @@
-![snake](https://raw.githubusercontent.com/mani6368/mani6368/output/snake.svg)
+
 <h1 align="center">Hi there, I'm Manikandan 👋</h1>
 
 <h3 align="center">Python Developer | AI Integration Enthusiast | Accessibility Tech Builder</h3>
@@ -91,9 +91,7 @@
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mani6368/mani6368/output/dist/snake.svg" alt="contribution snake animation" />
-</p>
+![snake](https://raw.githubusercontent.com/mani6368/mani6368/output/snake.svg)
 
 ---
 
