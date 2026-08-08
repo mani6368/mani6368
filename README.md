@@ -23,7 +23,6 @@
 - ♿ Currently building an **AI Vision Assistant** — an NVDA add-on that helps visually impaired users navigate inaccessible software, in collaboration with **Vision-Aid NGO**
 - 🛠️ Hands-on experience across **AI-powered web apps, ERP systems, and accessibility tooling**
 - 🌱 Actively looking for **internship opportunities** to apply and grow my skills in real-world, AI-driven software development
-- ⚡ Fun fact: when I'm not coding, I'm doing hand embroidery 🧵
 
 ---
 
