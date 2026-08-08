@@ -75,19 +75,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mani6368&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani6368&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mani6368&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/mani6368/mani6368/output/snake.svg)
@@ -98,14 +85,6 @@
 
 **B.E. Electrical and Electronics Engineering**
 Excel Engineering College, Komarapalayam — *2023 – 2027*
-
----
-
-### 📄 Certifications
-
-- NPTEL — Programming in Java *(Oct 2025)*
-- SAIL, Salem Steel Plant — Canteen Inventory Module Software *(Oct 2025)*
-- Hackathon for Inclusion — Virtual Hackathon Participant *(May 2026)*
 
 ---
 
